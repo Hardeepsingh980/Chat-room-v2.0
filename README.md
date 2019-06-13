@@ -11,4 +11,11 @@ Pygame Module
 
 Socket
 
+# How To open
+Step 1 : open server.py.
+Step 2 : open login.py.
+Step 3 : Register with a new account or find existing accounts in resources/log_details.csv.
+Step 4 : Login with multiple users and start chatting.
+Step 5 : Share you Feedback on Github.
+
 
