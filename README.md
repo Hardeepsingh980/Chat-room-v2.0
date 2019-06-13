@@ -6,6 +6,9 @@ This is a chat application created using Python and Socket module. This is the b
 
 # Requirements : 
 Python 3.6 or above
+
 Pygame Module
+
 Socket
+
 
